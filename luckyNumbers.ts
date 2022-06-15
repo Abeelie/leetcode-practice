@@ -18,4 +18,4 @@ const luckyNumbers = (matrix: number[][]): number[] => {
     }
   
     return luckyNumbersFound;
-  };
+};
